@@ -1,0 +1,27 @@
+[
+  {
+    "handle": "black-panther",
+    "imageName": "https://www.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/897627/Black_Panther_Shirts_and_Jackets_0490e751-49fc-42a3-bf83-d59d3acd753e_large.jpg",
+    "series": [
+      "Pop! Tees & Apparel",
+      "Funko Target Exclusives"
+    ],
+    "title": "Black Panther"
+  },
+  {
+    "handle": "prison-mike",
+    "imageName": "https://www.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/897282/Prison_Mike_Pins_and_Badges_25cd17fc-9e3c-4eda-88fc-4cd17de3f2dd_large.JPG",
+    "series": [
+      "Chase Pieces",
+      "Pop! Pins"
+    ],
+    "title": "Prison Mike"
+  },
+  {
+    "handle": "pam-beesly",
+    "imageName": "https://www.hobbydb.com/processed_uploads/catalog_item_photo/catalog_item_photo/image/897281/Pam_Beesly_Pins_and_Badges_d3dd70b8-d418-4729-9b02-6fe010edd235_large.JPG",
+    "series": [
+      "Pop! Pins"
+    ],
+    "title": "Pam Beesly"
+  }]
