@@ -17,13 +17,18 @@ public class CollectionAssistant {
     }
 
     public void runCollectionAssistant() throws FileNotFoundException {
+        out.println("-------- Welcome To The Funko Pop Collection Assistant! --------");
+        out.println("----------------------------------------------------------------");
         String choice;
         do {
-            out.println("[V]iewer mode -or- [Q]uit: ");
+            out.println("------------------------- MAIN MENU ----------------------------");
+            out.println("--- [V]iewer mode --- See [R]ecently viewed Pops --- [Q]uit --- >");
             choice = scanner.nextLine().trim().toUpperCase();
             switch (choice) {
                 case "V" -> ViewerMode.runViewerMode();
+                case "R" -> RecentlyViewed.runRecentlyViewed();
                 case "Q" -> out.println("Goodbye");
+                default -> out.println(("Invalid Choice"));
             }
         } while (!choice.equals("Q"));
 
